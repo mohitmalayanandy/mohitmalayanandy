@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Mohit Malaya Nandy.
-## Visit My Protfolio Page : https://mohitmalayanandy.github.io/#/
 👨‍🎓 Persuing MCA From The **[ITER, SOA](https://https://www.soa.ac.in/iter)**
 ### About me :eyes:
 
-
+## Visit My Protfolio Page : https://mohitmalayanandy.github.io/#/
 
 
 
