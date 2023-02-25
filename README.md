@@ -2,13 +2,22 @@
 <img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif>
 <br>
 
-### Hi there 👋, I'm Mohit Malaya Nandy.
 👨‍🎓 Persuing MCA From The **[ITER, SOA](https://https://www.soa.ac.in/iter)**
 ### About me :eyes:
 
 ## Visit My Protfolio Page : https://mohitmalayanandy.github.io/#/
 
 
+<p align="center">
+<a href="https://twitter.com/mohitmalaynandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohit Malaya Nandy" height="40" width="50" style="padding: 10px 50px 20px" /></a>
+  
+<a href="https://linkedin.com/in/mohitmalayanandy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
+  
+<a href="https://facebook.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
+  
+<a href="https://instagram.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
+  
+<a href="https://medium.com/@mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
 
 
 
@@ -22,6 +31,7 @@
 
 
 
+<!-- <a href="https://www.leetcode.com/Deva_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deva a" height="40" width="50" /></a> -->
 
 
 
