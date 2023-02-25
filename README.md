@@ -16,14 +16,9 @@
 
 <br>
 <p align="center">
-<a href="https://twitter.com/mohitmalaynandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohit Malaya Nandy" height="40" width="50" style="padding: 10px 50px 20px" /></a>
-  
-<a href="https://linkedin.com/in/mohitmalayanandy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
-  
+<a href="https://twitter.com/mohitmalaynandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohit Malaya Nandy" height="40" width="50" style="padding: 10px 50px 20px" /></a><a href="https://linkedin.com/in/mohitmalayanandy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
 <a href="https://facebook.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
-  
 <a href="https://instagram.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
-  
 <a href="https://medium.com/@mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
 
 
