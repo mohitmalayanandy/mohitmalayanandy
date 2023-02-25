@@ -1,6 +1,18 @@
 <h1 align="center">Hey Coders<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Mohit!  </h1>
 <img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif>
 <br>
+- 👀 I have great interest in **Backend, DevOps and artificial intelligence**
+
+- 🌱 I’m currently focusing on **Backend Development and DevOps**
+
+- 👯 I’m looking to collaborate on **open-source projects**
+
+- 👨‍💻 All of my links are available at [https://devaa.bio.link/](https://devaa.bio.link/)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **devaags999@gmail.com**
+<br>
 
 <p align="center">
 <a href="https://twitter.com/mohitmalaynandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohit Malaya Nandy" height="40" width="50" style="padding: 10px 50px 20px" /></a>
