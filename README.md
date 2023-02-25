@@ -1,4 +1,4 @@
-<h1 align="center">Hey folk<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Deva!  </h1>
+<h1 align="center">Hey folk<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Mohit!  </h1>
 <img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif>
 <br>
 
