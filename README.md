@@ -13,15 +13,25 @@
 
 - 📫 How to reach me **mohit78nandy@gmail.com**
 <br>
+
 ![c](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+
 <br>
 <p align="center">
 <a href="https://twitter.com/mohitmalaynandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohit Malaya Nandy" height="40" width="50" style="padding: 10px 50px 20px" /></a><a href="https://linkedin.com/in/mohitmalayanandy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
