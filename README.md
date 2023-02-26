@@ -39,7 +39,7 @@
 <h2 align="center"> 🔥 Contributions: </h2>
 
 <p align='center'>	
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=deva-1903&show_icons=true&locale=en&theme=dark&count_private=true" />  <img width="420px"src="https://github-readme-streak-stats.herokuapp.com/?user=deva-1903&theme=dark" />
+  <img width="400px" src="https://mohitmalayanandy.vercel.app/api?username=mohitmalayanandy&show_icons=true&locale=en&theme=dark&count_private=true" />  <img width="420px"src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmalayanandy&theme=dark" />
 </p>
 
 
