@@ -27,6 +27,9 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 <br>
+
+<h2 align="center"> Socials 😉: </h2>
+
 <p align="center">
 <a href="https://twitter.com/mohitmalaynandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohit Malaya Nandy" height="40" width="50" style="padding: 10px 50px 20px" /></a><a href="https://linkedin.com/in/mohitmalayanandy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
 <a href="https://facebook.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
@@ -36,7 +39,6 @@
 
 
 
-<h2 align="center"> 🔥 Contributions: </h2>
 
 
 
