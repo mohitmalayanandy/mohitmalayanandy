@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mohit78nandy@gmail.com**
 <br>
-<h2 align="center"> Skill Set : </h2>
+<h2 align="center"> Skill Set🎖 : </h2>
 
 ![c](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
