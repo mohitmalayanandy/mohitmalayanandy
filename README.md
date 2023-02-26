@@ -43,16 +43,6 @@
 </p>
 
 
-## 📊 **Github Stats :** 
-
-<p align = "center" >
-    <img width = 48% src = "https://github-readme-stats.vercel.app/api?username=Manish5121"/>
-    <img width = 48% src = "https://github-readme-streak-stats.herokuapp.com/?user=Manish5121"/>
-</p>
-
-
-
-
 
 
 
