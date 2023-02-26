@@ -20,7 +20,15 @@
 <a href="https://facebook.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
 <a href="https://instagram.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
 <a href="https://medium.com/@mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
+<br>
 
+
+
+<h2 align="center"> 🔥 Contributions: </h2>
+
+<p align='center'>	
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=deva-1903&show_icons=true&locale=en&theme=dark&count_private=true" />  <img width="420px"src="https://github-readme-streak-stats.herokuapp.com/?user=deva-1903&theme=dark" />
+</p>
 
 
 
