@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my links are available at [GooGle]([https://devaa.bio.link/](https://www.google.com/search?q=mohit+malaya+nandy&rlz=1C1YTUH_enIN1032IN1032&oq=mo&aqs=chrome.1.69i57j35i39l2j0i131i433i512j0i433i512j69i61j69i60l2.1900j0j7&sourceid=chrome&ie=UTF-8)])
+- 👨‍💻 All of my links are available at [GooGle](https://www.google.com/search?q=mohit+malaya+nandy&rlz=1C1YTUH_enIN1032IN1032&oq=mo&aqs=chrome.1.69i57j35i39l2j0i131i433i512j0i433i512j69i61j69i60l2.1900j0j7&sourceid=chrome&ie=UTF-8)
 
 - 💬 Ask me about **anything**
 
