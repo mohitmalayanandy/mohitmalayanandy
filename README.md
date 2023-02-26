@@ -2,13 +2,13 @@
 <img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif>
 <br>
 
-- 👀 I have great interest in **Backend, DevOps and artificial intelligence**
+- 👀 I have great interest in **Full Stack Dev & Artificial intelligence**
 
-- 🌱 I’m currently focusing on **Backend Development and DevOps**
+- 🌱 I’m currently focusing on **Front End Dev & DBMS**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my links are available at [https://devaa.bio.link/](https://devaa.bio.link/)
+- 👨‍💻 All of my links are available at [GooGle]([https://devaa.bio.link/](https://www.google.com/search?q=mohit+malaya+nandy&rlz=1C1YTUH_enIN1032IN1032&oq=mo&aqs=chrome.1.69i57j35i39l2j0i131i433i512j0i433i512j69i61j69i60l2.1900j0j7&sourceid=chrome&ie=UTF-8))
 
 - 💬 Ask me about **anything**
 
