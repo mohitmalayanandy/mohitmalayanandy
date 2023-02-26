@@ -17,14 +17,14 @@
 <h2 align="center"> Skill Set : </h2>
 
 ![c](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+<!--![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)-->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+<!--![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)-->
 
 <br>
 
