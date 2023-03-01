@@ -35,6 +35,7 @@
 <a href="https://facebook.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
 <a href="https://instagram.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
 <a href="https://medium.com/@mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
+<a href="https://www.leetcode.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deva a" height="40" width="50" /></a>
 <br>
 
 
@@ -51,7 +52,7 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=deva-1903&show_icons=true&locale=en&theme=dark&count_private=true" />  <img width="420px"src="https://github-readme-streak-stats.herokuapp.com/?user=deva-1903&theme=dark" />
 </p>-->
 
-<!-- <a href="https://www.leetcode.com/Deva_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deva a" height="40" width="50" /></a> -->
+<!-- <a href="https://www.leetcode.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deva a" height="40" width="50" /></a> -->
 
 <!--🎓 Persuing MCA From The **[ITER, SOA](https://https://www.soa.ac.in/iter)**
 ### About me :eyes:
