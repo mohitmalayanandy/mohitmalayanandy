@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **anything**
 
+-🎓 Persuing MCA From The **[ITER, SOA](https://https://www.soa.ac.in/iter)**
+
 - 📫 How to reach me **mohit78nandy@gmail.com**
 <br>
 <h2 align="center"> Skill Set🎖 : </h2>
@@ -48,13 +50,9 @@
 
 
 
-<!--<p align='center'>	
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=deva-1903&show_icons=true&locale=en&theme=dark&count_private=true" />  <img width="420px"src="https://github-readme-streak-stats.herokuapp.com/?user=deva-1903&theme=dark" />
-</p>-->
 
-<!-- <a href="https://www.leetcode.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deva a" height="40" width="50" /></a> -->
 
-<!--🎓 Persuing MCA From The **[ITER, SOA](https://https://www.soa.ac.in/iter)**
+
 ### About me :eyes:
 
 ## Visit My Protfolio Page : https://mohitmalayanandy.github.io/#/ -->
