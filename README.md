@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything**
 
--🎓 Persuing MCA From The **[ITER, SOA](https://https://www.soa.ac.in/iter)**
+- 🎓 Persuing MCA From The **[ITER, SOA](https://https://www.soa.ac.in/iter)**
 
 - 📫 How to reach me **mohit78nandy@gmail.com**
 <br>
