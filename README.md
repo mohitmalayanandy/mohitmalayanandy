@@ -39,7 +39,6 @@
 <a href="https://medium.com/@mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
 <a href="https://www.leetcode.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/@1941012918_q_sh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/mohitmalaynandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codingninja.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
 
 <br>
 
