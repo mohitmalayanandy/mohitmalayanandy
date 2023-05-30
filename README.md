@@ -37,7 +37,8 @@
 <a href="https://facebook.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
 <a href="https://instagram.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
 <a href="https://medium.com/@mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
-<a href="https://www.leetcode.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deva a" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/mohitmalayanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/@1941012918_q_sh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Mohit Malaya Nandy" height="40" width="50" /></a>
 <br>
 
   
