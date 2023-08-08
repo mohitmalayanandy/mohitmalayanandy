@@ -29,7 +29,7 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)-->
 
 <br>
-[![An image of @mohitmalayanandy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitmalayanandy)](https://holopin.io/@mohitmalayanandy)
+https://holopin.me/mohitmalayanandy)](https://holopin.io/@mohitmalayanandy
 <br>
 
 <h2 align="center"> Socials 😉: </h2>
