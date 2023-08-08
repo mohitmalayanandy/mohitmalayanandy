@@ -30,7 +30,7 @@
 
 <br>
 **My Holopin Collection:**
-[![@mohitmalayanandy's Holopin board](https://holopin.me/mohitmalayanandy)(https://holopin.io/@mohitmalayanandy)
+[![@mohitmalayanandy's Holopin board](https://holopin.me/mohitmalayanandy)](https://holopin.io/@mohitmalayanandy)
 
 <br>
 
