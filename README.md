@@ -30,8 +30,7 @@
 
 <br>
 **My Holopin Collection:**
-[![@mohitmalayanandy's Holopin board](https://holopin.me/mohitmalayanandy)](https://holopin.io/@mohitmalayanandy)
-
+[![@mohitmalayanandy's Holopin board] (https://holopin.me/mohitmalayanandy)](https://holopin.io/@mohitmalayanandy)
 <br>
 
 <h2 align="center"> Socials 😉: </h2>
