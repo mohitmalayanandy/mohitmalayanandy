@@ -2,9 +2,9 @@
 <img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif>
 <br>
 
-- 👀 I have great interest in **Full Stack Dev & Artificial intelligence**
+- 👀 I have great interest in **Web Development & Artificial intelligence**
 
-- 🌱 I’m currently focusing on **Front End Dev & DBMS**
+- 🌱 I’m currently focusing on **Full Stack Dev**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
