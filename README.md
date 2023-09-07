@@ -52,7 +52,7 @@
 <br>
 <br>
 <h2 align="center"> GitHub Trophy🏆: </h2>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=mohitmalayanandy" alt="mohitmalayanandy" /></a></p> 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=mohitmalayanandy&theme=gruvbox" alt="mohitmalayanandy" /></a></p>
 <br>
 <h2 align="center">GitHub Stats📊:</h2>
 <p align="center">
