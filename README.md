@@ -1,6 +1,8 @@
 <h1 align="center">Hey Coders<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Mohit!  </h1>
 <img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif>
 <br>
+<h3><img src="https://media.giphy.com/media/LRlblMDrxibqF42H44/giphy.gif" width="50">Details about me...</h3>
+
 
 - 👀 I have great interest in **Web Development & Artificial intelligence**
 
@@ -17,7 +19,13 @@
 - 📫 How to reach me **mohit78nandy@gmail.com**
 <br>
 <br>
-<br>
+<h3><img src="https://media.giphy.com/media/E7cElIn0u8EryF4i1u/giphy.gif" width=50> I am...</h3>
+
+```text
+🌙 Nigh_Person      ████████████████████░░░░░  80% 
+🌞 Morning_Person   █████░░░░░░░░░░░░░░░░░░░░   20%
+
+```
 <br>
 <h2 align="center"> Skill Set🎖 : </h2>
 <p align="center"> 
@@ -30,7 +38,7 @@
 
 <br>
 
-<h2 align="center"> Socials 😉: </h2>
+<h2 align="center"><img src="https://media.giphy.com/media/Q5pH4UmOiQciITstXU/giphy.gif" width=50> Find Me Here...</h2>
 
 <p align="center">
 <a href="https://twitter.com/mohitmalaynandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohit Malaya Nandy" height="40" width="50" style="padding: 10px 50px 20px" /></a><a href="https://linkedin.com/in/mohitmalayanandy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit Malaya Nandy"  height="40" width="50" /></a>
@@ -48,11 +56,12 @@
 <br>
 <h2 align="center">GitHub Stats📊:</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmalayanandy&show_icons=true&locale=en&layout=compact" alt="mohitmalayanandy" height="100"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmalayanandy&" alt="mohitmalayanandy" height="100"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mohitmalayanandy&show_icons=true&locale=en" alt="mohitmalayanandy" height="100"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmalayanandy&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mohitmalayanandy" height="100"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmalayanandy&theme=vision-friendly-dark" alt="mohitmalayanandy" height="100"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohitmalayanandy&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mohitmalayanandy" height="100"/>
 </p>
 <br>
+
 <h2 align="center">Support:🤝</h2>
 <p align="center"><a href="https://www.buymeacoffee.com/mohitmalaynandy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="mohitmalaynandy" /></a></p>
 <br><br>
