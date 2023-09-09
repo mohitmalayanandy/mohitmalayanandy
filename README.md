@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **mohit78nandy@gmail.com**
 <br>
-<img alt="dr.robo" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
-<br>
 
 <h3><img src="https://media.giphy.com/media/E7cElIn0u8EryF4i1u/giphy.gif" width=50> I am...</h3>
 
@@ -99,7 +97,13 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">-->
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+
+<img alt="dr.robo" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+<br>
+
+
+-->
   
   
 <!---
