@@ -64,6 +64,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitmalayanandy&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mohitmalayanandy" height="100"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmalayanandy&theme=vision-friendly-dark" alt="mohitmalayanandy" height="100"/>
 <img src="https://github-readme-stats.vercel.app/api?username=mohitmalayanandy&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mohitmalayanandy" height="100"/>
+    
 <a href="https://github.com/mohitmalayanandy"><img title="mohitmalayanandy's Activity Graph" alt="Mohit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmalayanandy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 <br>
