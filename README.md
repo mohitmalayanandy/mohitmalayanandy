@@ -5,7 +5,7 @@
 
 
 - 👀 I have great interest in **Web Development & Artificial intelligence**
-
+ 
 - 🌱 I’m currently focusing on **Full Stack Dev**
 
 - 👯 I’m looking to collaborate on **open-source projects**
