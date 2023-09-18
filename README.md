@@ -3,7 +3,6 @@
 <br>
 <h3><img src="https://media.giphy.com/media/LRlblMDrxibqF42H44/giphy.gif" width="50">Details about me...</h3>
 
-
 - 👀 I have great interest in **Web Development & Artificial intelligence**
  
 - 🌱 I’m currently focusing on **Full Stack Dev**
