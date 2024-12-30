@@ -5,7 +5,7 @@
 
 - 👀 I have great interest in **Web Development & Artificial intelligence**
 
-- 🌱 I’m currently focusing on **Full Stack Dev**
+- 🌱 I’m currently focusing on **FullStack Web Development**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **fullStack**
 
-- 🎓 Persuing MCA From The **[ITER, SOA](https://https://www.soa.ac.in/iter)**
+- 🎓 MCA From The **[ITER, SOA](https://https://www.soa.ac.in/iter)**
 
 - 📫 How to reach me **mohit78nandy@gmail.com**
 <br>
