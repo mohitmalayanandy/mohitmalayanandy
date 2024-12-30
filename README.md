@@ -1,4 +1,5 @@
 <h1 align="center">Hey Coders<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Mohit!  </h1>
+![github_banner](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/assets/73753957/a3dd3e5b-c28a-4854-be54-fbf27b764be5)
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 <br>
 <h3><img src="https://media.giphy.com/media/LRlblMDrxibqF42H44/giphy.gif" width="50">Details about me...</h3>
