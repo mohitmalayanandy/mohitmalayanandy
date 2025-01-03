@@ -8,7 +8,7 @@
 
 - 👀 I have great interest in **FullStack Web Development**
 
-- 🌱 I’m currently focusing on **/MERN Stack Web Development**
+- 🌱 I’m currently focusing on **MERN Stack Web Development**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
