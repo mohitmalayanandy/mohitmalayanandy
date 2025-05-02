@@ -385,22 +385,42 @@ timeline
 </div>
 <br>
 <h1 align="center">Developer Personality</h1>
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="width: 45%;">
+      <h4>🌙 Night Owl</h4>
+      <div style="background-color: #0D1117; border-radius: 5px; height: 20px; position: relative; overflow: hidden;">
+        <div style="background-color: #6E57F7; height: 100%; width: 85%; border-radius: 5px;"></div>
+      </div>
+      <p align="right">85%</p>
+    </div>
+    <div style="width: 45%;">
+      <h4>🌞 Early Bird</h4>
+      <div style="background-color: #0D1117; border-radius: 5px; height: 20px; position: relative; overflow: hidden;">
+        <div style="background-color: #6E57F7; height: 100%; width: 15%; border-radius: 5px;"></div>
+      </div>
+      <p align="right">15%</p>
+    </div>
+  </div>
   
-```text
-🌙 Night Owl                ████████████████████░░   85% 
-🌞 Early Bird               █████░░░░░░░░░░░░░░░░░   15%
-
-🧠 Problem Solver █████████████████████░░ 90%
-🎨 Creative Thinker ████████████████░░░░░░░ 70%
-
-⏱️ Planner ████████████░░░░░░░░░░░ 55%
-🚀 Improviser ███████████████░░░░░░░░ 65%
-
-```
-
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="width: 45%;">
+      <h4>🧠 Problem Solver</h4>
+      <div style="background-color: #0D1117; border-radius: 5px; height: 20px; position: relative; overflow: hidden;">
+        <div style="background-color: #6E57F7; height: 100%; width: 90%; border-radius: 5px;"></div>
+      </div>
+      <p align="right">90%</p>
+    </div>
+    <div style="width: 45%;">
+      <h4>🎨 Creative Thinker</h4>
+      <div style="background-color: #0D1117; border-radius: 5px; height: 20px; position: relative; overflow: hidden;">
+        <div style="background-color: #6E57F7; height: 100%; width: 70%; border-radius: 5px;"></div>
+      </div>
+      <p align="right">70%</p>
+    </div>
+  </div>
 </div>
 
+<br>
 <h1 align="center">SUPPORT THE ARCHITECT</h1>
 
 <div align="center">
@@ -417,4 +437,3 @@ timeline
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=120&section=footer&fontSize=90" width="100%"/>
 </div>
-```
