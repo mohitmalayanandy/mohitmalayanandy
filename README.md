@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Mono+Code&weight=500&size=20&pause=1000&color=&center=true&vCenter=true&random=false&width=600&height=70&lines=Master+MERN+Stack+Architect;API+Integration+Specialist;Full+Stack+Engineer;UI%2FUX+Enthusiast;DevOps+Practitioner" alt="Typing SVG" />
 </div>
 
-<h1 align="center">THE ARCHITECT BEHIND THE CODE</h1>
+<h3 align="center">THE ARCHITECT BEHIND THE CODE</h3>
 
 ```javascript
 const MOHIT = {
@@ -44,7 +44,7 @@ const MOHIT = {
 
 <br>
 
-<h1 align="center">CURRENT ENDEAVORS</h1>
+<h3 align="center">CURRENT ENDEAVORS</h3>
 <img align="center" alt="Coding Animation" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔥 Architecting **Serverless Microservices Applications**
@@ -60,7 +60,7 @@ const MOHIT = {
 - ⚡ When not coding: **Photography, Chess, Hiking**
 
 <br>
-<h1 align="center">DEVELOPER DNA</h1>
+<h3 align="center">DEVELOPER DNA</h3>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmalayanandy&bg_color=000000&color=6E57F7&line=6E57F7&point=FFFFFF&area=true&area_color=6E57F780&hide_border=true" width="95%" />
@@ -89,13 +89,13 @@ const MOHIT = {
 
 <br>
 
-<h1 align="center">TECHNOLOGICAL ARSENAL</h1>
+<h3 align="center">TECHNOLOGICAL ARSENAL</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,materialui,git,python,figma,vscode,anaconda,discord,github,obsidian,postman,bootstrap&perline=9&theme=dark" width="90%" />
 </div>
 
-<h1 align="center">SPECIALIZED DOMAINS</h1>
+<h3 align="center">SPECIALIZED DOMAINS</h3>
 <div align="center">
 <table>
   <tr>
@@ -124,7 +124,7 @@ const MOHIT = {
 </div>
 
 <br>
-<h1 align="center">PERFORMANCE METRICS</h1>
+<h3 align="center">PERFORMANCE METRICS</h3>
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
@@ -142,7 +142,7 @@ const MOHIT = {
 
 <br>
 
-<h1 align="center">Development Metrics & Workflow</h1>
+<h3 align="center">Development Metrics & Workflow</h3>
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitmalayanandy&theme=radical" width="700"/>
@@ -154,7 +154,7 @@ const MOHIT = {
 </div>
 <br>
 
-<h1 align="center">PRESTIGIOUS ACCOMPLISHMENTS</h1>
+<h3 align="center">PRESTIGIOUS ACCOMPLISHMENTS</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohitmalayanandy&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophy" width="100%" />
@@ -186,7 +186,7 @@ const MOHIT = {
   </table>
 </div>
 
-<h1 align="center">SIGNATURE PROJECTS</h1>
+<h3 align="center">SIGNATURE PROJECTS</h3>
 <div align="center">
   <table border="0">
     <tr>
@@ -232,7 +232,7 @@ const MOHIT = {
   </table>
 </div>
 
-<h1 align="center">Featured Projects</h1>
+<h3 align="center">Featured Projects</h3>
 
 <div align="center">
   <a href="https://github.com/mohitmalayanandy/cloud-pulse">
@@ -249,12 +249,12 @@ const MOHIT = {
   </a>
 </div>
 <br>
-<h2 align="center"> Holopin Badges : </h2>
+<h3 align="center"> Holopin Badges : </h3>
 
 [![@mohitmalayanandy's Holopin badges board](https://holopin.me/mohitmalayanandy)](https://holopin.io/@mohitmalayanandy)
 
 <br>
-<h1 align="center">DEVELOPMENT JOURNEY</h1>
+<h3 align="center">DEVELOPMENT JOURNEY</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
@@ -348,7 +348,7 @@ timeline
   </a>
 </div>
 <br>
-<h1 align="center">THOUGHT LEADERSHIP</h1>
+<h3 align="center">THOUGHT LEADERSHIP</h3>
 <div align="center">
   <table border="0">
     <tr>
@@ -368,7 +368,7 @@ timeline
   </table>
 </div>
 
-<h1 align="center">RHYTHM BEHIND THE CODE</h1>
+<h3 align="center">RHYTHM BEHIND THE CODE</h3>
 <div style="text-align: center; margin-top: 40px;">
   <div style="display: inline-block; transition: transform 0.4s ease, box-shadow 0.4s ease;"
        onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(83,177,79,0.6)'"
@@ -384,7 +384,7 @@ timeline
   </p>
 </div>
 <br>
-<h1 align="center">Developer Personality</h1>
+<h3 align="center">Developer Personality</h3>
 <div style="display: flex; justify-content: center; gap: 20px;">
     <div style="width: 45%;">
       <h4>🌙 Night Owl</h4>
@@ -421,7 +421,7 @@ timeline
 </div>
 
 <br>
-<h1 align="center">SUPPORT THE ARCHITECT</h1>
+<h3 align="center">SUPPORT THE ARCHITECT</h3>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/mohitmalaynandy" target="_blank">
