@@ -22,18 +22,17 @@
 
 ```javascript
 const MOHIT = {
-  title: "𝙋𝙧𝙞𝙣𝙘𝙞𝙥𝙖𝙡 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩",
+  title: "Software Developer",
   expertise: [
     "MERN Stack Development",
-    "Cloud Architecture (AWS)",
     "API Design & Integration",
-    "System Architecture",
-    "UI/UX Engineering",
+    "UI/UX Desining",
+    "Software Engineering",
   ],
   education: {
     degree: "MCA with Distinction",
     university: "ITER, SOA University",
-    graduation: 2023,
+    graduation: 2024,
   },
   passion: "Building scalable applications that transform user experiences",
   motto: "Code is poetry written for machines, but read by humans.",
@@ -47,9 +46,9 @@ const MOHIT = {
 <h3 align="center">CURRENT ENDEAVORS</h3>
 <img align="center" alt="Coding Animation" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔥 Architecting **Serverless Microservices Applications**
+- 🔥 Architecting **Dashboard Applications**
 - 🚀 Developing **AI-Enhanced Full Stack Solutions**
-- 🔮 Exploring **Blockchain Integration in Web Applications**
+- 🔮 Exploring **AI Integration in Web Applications**
 - 📚 Sharing knowledge through **Technical Blog Posts**
 - 🌟 Contributing to **High-Impact Open Source Projects**
 - 🔭 I'm currently working on **AI-Enhanced MERN Applications**
@@ -74,7 +73,7 @@ const MOHIT = {
   codeQuality: ["Clean", "Reusable", "Documented", "Efficient"],
   problemSolvingApproach: ["Analytical", "Creative", "Systematic"],
   specialPowers: [
-    "Turning Coffee Into Code",
+    "Turning Music & Coffee Into Code",
     "Debugging In Dreams",
     "Making Complex Simple",
     "Finding Missing Semicolons In Milliseconds"
@@ -110,11 +109,11 @@ const MOHIT = {
     </th>
   </tr>
   <tr>
-    <td align="center"><strong>Full Stack Development</strong><br>
-      <sub>React Ecosystems, State Management, Micro-Frontends, Tailwind styling</sub>
+    <td align="center"><strong>MERN Stack Development</strong><br>
+      <sub>React Ecosystems, Mongoose Modeling, Micro-Frontends, Tailwind styling</sub>
     </td>
     <td align="center"><strong>Python Developer</strong><br>
-      <sub>Python Programming, Scripting, Automation, Libraries</sub>
+      <sub>Python Programming</sub>
     </td>
     <td align="center"><strong>API Development</strong><br>
       <sub>RESTful Design, Postman</sub>
